@@ -1,0 +1,4 @@
+fitlog==0.9.13
+transformers==4.1.0
+datasets==1.1.3
+torch==1.7.1
